@@ -19,9 +19,9 @@ The landing page is finished. The home page is nearly complete. It also uses pla
 
 === Objectives ===
 
-This is a project considered for future development, where it could have fuller functionality.
+This is a project considered for future development.
 
-Features could include a shop with e-commerce capability, login and sign up for people to review and comment on places they have visited. Also, booking through an external travel and an explore page featuring an interactive map is also considered. 
+Features could include a shop with e-commerce capability, login and sign up for people to review and comment on places they have visited. Also, booking through an external travel agency and an explore page featuring an interactive map is also considered. 
 
 === Wireframe ===
 

@@ -1,4 +1,4 @@
-# iceland
+# Explore Iceland Prototype
 Hand-coded tourism website landing and home page.
 
 See live prototype here: exploreiceland.herokuapp.com

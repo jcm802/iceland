@@ -21,7 +21,7 @@ The landing page is finished. The home page is in progress and now responsive ac
 
 The website will feature login and sign up capability for people to review and comment on places they have visited. Booking through an external travel agency will also be possible and the explore page will feature an interactive map. 
 
-This is a continuous project, where I aim to implement full functionality, including a shop with e-commerce capability.
+This is a project considered for future development, where it could have full functionality, including a shop with e-commerce capability.
 
 === Designs ===
 

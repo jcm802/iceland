@@ -3,7 +3,7 @@ Hand-coded tourism website landing and home page.
 
 See live prototype here: exploreiceland.herokuapp.com
 
-# Current Progress
+# Description
 
 Landing and Home page are viewable.
 

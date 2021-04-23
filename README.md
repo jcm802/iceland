@@ -1,7 +1,7 @@
 # iceland
-Work-in-progress prototype tourism website.
+Hand-coded tourism website landing and home page.
 
-See current website here: exploreiceland.herokuapp.com
+See live prototype here: exploreiceland.herokuapp.com
 
 # Current Progress
 
@@ -15,14 +15,14 @@ The landing page directs you to the home page by clicking 'Start Your Journey'. 
 
 === Progress ===
 
-The landing page is finished. The home page is in progress and now responsive across devices. It also uses placeholder text. The website features front and back end capability. The database currently holds the landing page background images for testing purposes.
+The landing page is finished. The home page is nearly complete. It also uses placeholder text. The website features front and back end capability. The database currently holds the landing page background images for testing purposes.
 
 === Objectives ===
 
-The website will feature login and sign up capability for people to review and comment on places they have visited. Booking through an external travel agency will also be possible and the explore page will feature an interactive map. 
+This is a project considered for future development, where it could have fuller functionality.
 
-This is a project considered for future development, where it could have full functionality, including a shop with e-commerce capability.
+Features could include a shop with e-commerce capability, login and sign up for people to review and comment on places they have visited. Also, booking through an external travel and an explore page featuring an interactive map is also considered. 
 
-=== Designs ===
+=== Wireframe ===
 
-Designs are in place for both the home and explore page. Also for the landing page, but this was revised. The designs can be found in the directory "artboards".
+Wireframe designs are in place for both the home and explore page. Also for the landing page, but this was revised. The designs can be found in the directory "artboards".

@@ -7,7 +7,7 @@ See live prototype here: exploreiceland.herokuapp.com
 
 Landing and Home page are viewable.
 
-Hand coded with HTML, CSS, JavaScript. Features Node.js, Express, MongoDB, Mongoose as the back end.
+Written with HTML, CSS, JavaScript, with Node.js, Express, MongoDB, Mongoose as the back end.
 
 === Functionality ===
 
